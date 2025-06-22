@@ -1,0 +1,4 @@
+﻿  01packsack.c
+D:\classwork\算法实验\算法实验\01packsack.c(14,11): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\classwork\算法实验\算法实验\01packsack.c(45,28): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+  算法实验.vcxproj -> D:\classwork\算法实验\x64\Debug\算法实验.exe
